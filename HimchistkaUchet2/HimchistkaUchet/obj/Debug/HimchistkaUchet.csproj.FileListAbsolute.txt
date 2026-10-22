@@ -1,0 +1,24 @@
+Z:\ИСПк-033\Моделирование\Козулин Данила\HimchistkaUchet\HimchistkaUchet\bin\Debug\HimchistkaUchet.exe.config
+Z:\ИСПк-033\Моделирование\Козулин Данила\HimchistkaUchet\HimchistkaUchet\bin\Debug\HimchistkaUchet.exe
+Z:\ИСПк-033\Моделирование\Козулин Данила\HimchistkaUchet\HimchistkaUchet\bin\Debug\HimchistkaUchet.pdb
+Z:\ИСПк-033\Моделирование\Козулин Данила\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.csprojResolveAssemblyReference.cache
+Z:\ИСПк-033\Моделирование\Козулин Данила\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.LoginForm.resources
+Z:\ИСПк-033\Моделирование\Козулин Данила\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.Properties.Resources.resources
+Z:\ИСПк-033\Моделирование\Козулин Данила\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.csproj.GenerateResource.Cache
+Z:\ИСПк-033\Моделирование\Козулин Данила\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.exe
+Z:\ИСПк-033\Моделирование\Козулин Данила\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.pdb
+Z:\ИСПк-033\Моделирование\Козулин Данила\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.MainForm.resources
+Z:\ИСПк-033\Моделирование\Козулин Данила\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.OrderForm.resources
+Z:\ИСПк-033\Моделирование\Козулин Данила\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.UserManagementForm.resources
+E:\Козулин Данила\2026-2027\Моделирование и анализ программного обеспечения\Практика №3\HimchistkaUchet\HimchistkaUchet\bin\Debug\HimchistkaUchet.exe.config
+E:\Козулин Данила\2026-2027\Моделирование и анализ программного обеспечения\Практика №3\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.exe
+E:\Козулин Данила\2026-2027\Моделирование и анализ программного обеспечения\Практика №3\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.pdb
+E:\Козулин Данила\2026-2027\Моделирование и анализ программного обеспечения\Практика №3\HimchistkaUchet\HimchistkaUchet\bin\Debug\HimchistkaUchet.exe
+E:\Козулин Данила\2026-2027\Моделирование и анализ программного обеспечения\Практика №3\HimchistkaUchet\HimchistkaUchet\bin\Debug\HimchistkaUchet.pdb
+E:\Козулин Данила\2026-2027\Моделирование и анализ программного обеспечения\Практика №3\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.csprojResolveAssemblyReference.cache
+E:\Козулин Данила\2026-2027\Моделирование и анализ программного обеспечения\Практика №3\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.LoginForm.resources
+E:\Козулин Данила\2026-2027\Моделирование и анализ программного обеспечения\Практика №3\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.MainForm.resources
+E:\Козулин Данила\2026-2027\Моделирование и анализ программного обеспечения\Практика №3\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.OrderForm.resources
+E:\Козулин Данила\2026-2027\Моделирование и анализ программного обеспечения\Практика №3\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.Properties.Resources.resources
+E:\Козулин Данила\2026-2027\Моделирование и анализ программного обеспечения\Практика №3\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.UserManagementForm.resources
+E:\Козулин Данила\2026-2027\Моделирование и анализ программного обеспечения\Практика №3\HimchistkaUchet\HimchistkaUchet\obj\Debug\HimchistkaUchet.csproj.GenerateResource.Cache
